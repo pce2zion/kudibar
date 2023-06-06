@@ -1,0 +1,22 @@
+.exp{
+    background-color: #133E50;
+    height: 100vh;
+    display: flex;
+    padding: 60px 160px;
+}
+.firstflex h2{
+    color: white;
+    font-size: 62px;
+    width: 400px;
+}
+.firstflex p{
+    color: grey;
+    margin-top: 30px;
+    width: 400px;
+    font-size: 20px;
+}
+.flexsmall{
+    margin-top: 50px;
+    display: flex;
+    margin-left: -10px;
+}

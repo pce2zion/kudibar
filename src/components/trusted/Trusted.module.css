@@ -1,0 +1,123 @@
+.trusted{
+    height: 98vh;
+    background-color: #fafafa;
+}
+.color{
+    padding: 50px 70px;
+   
+    height: 300px;
+}
+.trustedh4{
+    font-size: 28px;
+    font-weight: 400;
+    color: #857f7f;
+}
+.flex{
+    margin-left: -30px;
+    padding-top: 50px;
+}
+.flex img{
+    margin-left: 75px;
+}
+.arena{
+    background-image: url("../../UI/imgs/greybg2.jpeg"); 
+    padding-bottom: 180px;
+}
+.arenap{
+    color: #adabab;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 165px;
+}
+.arenah2{
+    font-size: 54px;
+    color: #133e50;
+    text-align: center;
+}
+.flexpic{
+    padding: 0 70px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.green{
+    background-color: #edfdf5;
+    width: 600px;
+    height: 600px;
+    border-radius: 30px;
+    color: #787878;
+}
+.green h2{
+    font-size: 40px;
+    width: 300px;
+    color: #3d8722;
+   margin-top: 60px;
+   margin-left: 130px;
+}
+.green p{
+    margin-left: 130px;
+    margin-top: 20px;
+    font-size: 18px;
+    width: 350px;
+}
+.blue{
+    background-color: #c9e9fc;
+    width: 600px;
+    height: 600px;
+    border-radius: 30px;
+    color: #787878;
+}
+.blue h2{
+    font-size: 40px;
+    width: 300px;
+    color: #3d8722;
+   margin-top: 60px;
+   margin-left: 130px;
+}
+.blue p{
+    margin-left: 130px;
+    margin-top: 20px;
+    font-size: 18px;
+    width: 350px;
+}
+.orange{
+    margin-top: 30px;
+    width: 1240px;
+    height: 430px;
+    border-radius: 30px;
+    background-color: #FDF0DC;
+    margin-left: 100px;
+}
+.orange h2{
+    color: #F0893B;
+    font-size: 40px;
+    position: relative;
+    top: 60px;
+    width: 350px;
+    margin-left: 190px;
+}
+.orange p{
+    color: #787878;
+    font-size: 18px;
+    margin-top: 80px;
+    width: 350px;
+    margin-left: 190px;
+}
+.btnlk2{
+    margin-top: 40px;
+    border: 2px solid #133e50;
+    width: 250px;
+    position: relative;
+    left: 190px;
+    padding: 20px 5px;
+    border-radius: 30px;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.btnlk2:hover{
+    background-color: #133e50;
+    color: white;
+    transition: ease-in-out 0.3s;
+
+}

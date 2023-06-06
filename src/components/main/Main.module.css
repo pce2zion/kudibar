@@ -1,0 +1,70 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f6fbfd;
+    height: 90vh;
+    overflow: hidden;
+    max-width: 100%;
+}
+.text{
+margin-top: 140px;
+position: relative;
+left: 160px;
+
+}
+.mainh1{
+color: #133e50;
+font-size: 67px;
+width: 600px;
+}
+.mainp{
+    margin-top: 50px;
+    font-size: 23px;
+    color: #857f7f;
+}
+.btnlk{
+    margin-top: 40px;
+    border: 2px solid #133e50;
+    width: 290px;
+    padding: 20px 5px;
+    border-radius: 30px;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+
+.slider{
+    position: relative;
+    left: 90px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.slider .marq{
+    margin-top: 83px;
+    margin-right: 120px; 
+}
+
+.slider .femsl2{
+    position: relative;
+    top: 260px;
+    height: 490px;
+    right: -170px;
+    
+}
+.slider .male{
+   margin-right: 200px; 
+   top: 60px;
+   left: 100px;
+   
+}
+.slider .male2{
+    position: relative;
+    left: -55px;
+    top: -30px;
+    right: 95px;
+}
+.text h1{
+    position: relative;
+    font-size: 40px;
+}
