@@ -1,7 +1,6 @@
 import classes from './Experience.module.css';
 import google from '../../UI/imgs/googleplay.svg';
-import ios from '../../UI/imgs/iosplay.svg'
-import bigphone from '../../UI/imgs/bigphone.png'
+import bigphone from '../../UI/imgs/bigphone.png';
 const Experience = () => {
     return (
         <div className={classes.exp}>
@@ -14,7 +13,7 @@ const Experience = () => {
                 </div>
             </div>
             <div className={classes.bigphone}>
-                <img style={{width:"390px", marginTop:"313px", marginLeft:"260px"}} src={bigphone} alt="big phone" />
+                <img style={{width:"390px", marginTop:"293px", marginLeft:"260px"}} src={bigphone} alt="big phone" />
             </div>
             
         </div> 
